@@ -1,4 +1,5 @@
 # Note-Taker
+![image](https://user-images.githubusercontent.com/109819736/195468057-3f8664bd-8794-4ba7-b216-b7fa7a59f604.png)
 
   ## Built With
   * HTML
