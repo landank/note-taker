@@ -11,8 +11,9 @@
   ## Description
   This handy application let's the user take and delete notes. It uses express.js back-end, and is deployed to heroku.  
 
-  ![alt text](./public/assets/images/Capture.PNG)
-  
+## Application in action
+   https://stark-taiga-97099.herokuapp.com/
+   
   ## Installation
  Clone it, and run "npm i in gitBash, or any other terminal to install.
   
